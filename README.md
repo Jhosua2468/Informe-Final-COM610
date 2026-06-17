@@ -15,5 +15,5 @@ Bienvenido al repositorio central de documentación para la defensa del proyecto
 
 Para ver la arquitectura detallada, el esquema de la nube, las resoluciones de errores y las pruebas de resiliencia (Auto Scaling), por favor revisa el archivo del informe técnico adjunto en este repositorio:
 
-👉 **[Leer el Informe Final Completo Aquí](infome.md)** 
-*(Nota: Si tu archivo del informe se llama diferente en la lista de arriba, solo cambia `infome.md` por el nombre exacto que le pusiste).*
+👉 **[Leer el Informe Final Completo Aquí](INFORME.md)** 
+
