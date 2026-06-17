@@ -8,6 +8,9 @@ Bienvenido al repositorio central de documentación para la defensa del proyecto
 * ⚙️ **Repositorio Backend (NestJS):** [Sistema-de-Planificacion-de-Viajes](https://github.com/Jhosua2468/Sistema-de-Planificacion-de-Viajes)
 * 🌐 **Despliegue Frontend (S3 + CloudFront):** [Acceder al Sitio Web](https://d1ot04qzq6bfhq.cloudfront.net/)
 * ⚖️ **Despliegue Backend (ALB AWS):** [Acceder a la API](https://alb-viajes-backend-1486483178.us-east-1.elb.amazonaws.com) *(Nota: Aceptar certificado temporalmente)*
+* **Primera instancia con https:** [API inicial](https://api-sistema-viajes.rootcode.com.bo/)
+*  *(Nota: agregar `/destinos`, `/destinos/atractivos` o `/usuarios` para hacer ver los valores de algunas tablas).*
+  
 
 ---
 
